@@ -1,0 +1,17 @@
+h1 {
+    color: #5100D6;
+}
+span {
+    font-style: italic;
+}
+#sp1 {
+    font-weight: bold;
+}
+h3 {
+    font-size: 16px;
+}
+a {
+    text-decoration: underline double;
+    color: #D64400;
+    font-weight: 600;
+}
