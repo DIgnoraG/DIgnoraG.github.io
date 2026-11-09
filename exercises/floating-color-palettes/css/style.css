@@ -1,0 +1,46 @@
+.color-palettes {
+    padding: 24px;
+    margin: 24px;
+    text-align: center;
+    box-shadow: 6px 6px 12px #989898;
+}
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#c1a {
+    background-color: #FF6f91;
+    color: white;
+}
+#c1b {
+    background-color: #D65DB1;
+    color: #F9F871;
+}
+#c1c {
+    background: #F9F871;
+    color: #D65DB1;
+}
+#aq1 {
+    background-color: #4ffbdf;
+    color: darkgreen;
+}
+#aq2 {
+    background-color: #00c2a8;
+    color: white;
+}
+#aq3 {
+    background: #008e9b;
+    color: white;
+}
+#fall1 {
+    background-color: #c34a36;
+    color: black;
+}
+#fall2 {
+    background-color: #b05c00;
+    color: darkgreen;
+}
+#fall3 {
+    background: #936c00;
+    color: darkorange;
+}
