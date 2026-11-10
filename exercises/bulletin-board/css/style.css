@@ -1,0 +1,37 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    font-family: sans-serif;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
+    display: inline-block;
+}
+.periwinkle {
+    background-color: plum;
+}
+.dahlia {
+    background-color: palevioletred;
+    font-family: cursive;
+}
+.daisypolaroid {
+    background-color: floralwhite;
+    font-size: 70%;
+}
+.rose {
+    background-color: #FF007F;
+    font-size: 55%;
+    font-weight: bold;
+}
+.audrey {
+    font-size: small;
+}
