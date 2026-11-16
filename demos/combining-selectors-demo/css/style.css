@@ -1,0 +1,14 @@
+#navbar {
+    background-color: blue;
+    padding: 24px;
+    text-align: center;
+}
+div a {
+    color: white;
+}
+p a {
+    color: teal;
+}
+a.warning {
+    color:#f5a500;
+}
