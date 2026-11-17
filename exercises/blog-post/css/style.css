@@ -18,7 +18,7 @@ header {
     background-color:aquamarine;
     padding: 25px 0px;
 }
-nav {
+nav a {
     color: blue;
     text-decoration: none;
     margin: 0px 10px;
