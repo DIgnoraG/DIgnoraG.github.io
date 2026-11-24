@@ -1,0 +1,38 @@
+#layout {
+    margin:36px 0px 36px 0px;
+    padding:24px;
+    display: flex;
+    align-items: center;
+    background-color: silver;
+}
+
+#thumbnailcolumn {
+   margin: 16px 0px 24px;
+   padding: 24px;
+}
+#featured-image-column {
+    padding: 36px;
+}
+#product-info-column {
+    margin: 16px;
+    padding: 24px;
+    display: inline-block;
+}
+.sellerinfo {
+    display: flex;
+    text-decoration: underline;
+}
+
+.button {
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+}
+.button:hover {
+    background-color: silver
+
+}
