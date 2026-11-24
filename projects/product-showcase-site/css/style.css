@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+    box-sizing: border-box;
+}
 header {
     background-color:  #7b2cbf;
     padding: 25px 0px;
